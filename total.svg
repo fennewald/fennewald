@@ -2,7 +2,7 @@
 <!DOCTYPE svg>
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 40">
 <circle cx="250" cy="250" r="50" fill="red" />
-  <script type="text/javascript"><![CDATA[
+  <script type="text/javascript">
     var KEY = { w:87, a:65, s:83, d:68 };
     var moveSpeed = 5;
     var circle = document.getElementsByTagName("circle")[0];
@@ -26,5 +26,5 @@
         break;
       }
     },false);
-  ]]></script>
+  </script>
 </svg>
