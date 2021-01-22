@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg>
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 40">
-	<image id="c" x="0"   y="0"  width="28" height="40" href="/c.svg"/>
-	<image id="a" x="29"  y="7"  width="32" height="28" href="/a.svg"/>
-	<image id="r" x="62"  y="2"  width="38" height="37" href="/r.svg"/>
-	<image id="s" x="102" y="-2" width="35" height="43" href="/s.svg"/>
-	<image id="o" x="139" y="10" width="20" height="20" href="/o.svg"/>
-	<image id="n" x="163" y="3"  width="40" height="34" href="/n.svg"/>
+<circle cx="250" cy="250" r="50" fill="red" />
+  <script type="text/javascript"><![CDATA[
+    var KEY = { w:87, a:65, s:83, d:68 };
+    var moveSpeed = 5;
+    var circle = document.getElementsByTagName("circle")[0];
+    var x = circle.getAttribute('cx')*1,
+        y = circle.getAttribute('cy')*1;
+    document.documentElement.addEventListener('keydown',function(evt){
+      switch (evt.keyCode){
+        case KEY.w:
+          circle.setAttribute('cy',y-=moveSpeed);
+          // Alternatively:
+          // circle.cy.baseVal.value = (y-=moveSpeed);
+        break;
+        case KEY.s:
+          circle.setAttribute('cy',y+=moveSpeed);
+        break;
+        case KEY.a:
+          circle.setAttribute('cx',x-=moveSpeed);
+        break;
+        case KEY.d:
+          circle.setAttribute('cx',x+=moveSpeed);
+        break;
+      }
+    },false);
+  ]]></script>
 </svg>
