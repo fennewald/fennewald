@@ -1,12 +1,12 @@
-<img src="./carson.gif" style=" filter: none;-webkit-filter: blur(0px);-moz-filter: blur(0px);-ms-filter: blur(0px);filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='0');" width="100%"/>
+<img src="./carson.gif" width="100%"/>
 
-# Carson Riker
+Developer,
+[Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21),
+[Student of Tao](https://www.mit.edu/~xela/tao.html)
 
-// TODO, write intresting, witty bio
+Moving personal project development to [source hut](https://sr.ht/~fennewald). I
+will keep my github around for open-source contributions.
 
-I'm moving my personal devlopment [sr.ht](https://sr.ht).
-
-Feel free to:
-* Check me out [there!](https://sr.ht/~fennewald/)
-* Check out my [website](https://carson.riker.me)
-* Send me an [email](mailto:c@rson.riker.me), or get in touch on [matrix]()
+I'm always happy to talk shop, answer questions, or just meet new people. You
+can email me at c<at>rson.riker.me, or shoot me a message on matrix
+(@fennewald:matrix.org), you can also check out [my website](https://carson.riker.me)
