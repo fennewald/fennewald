@@ -1,4 +1,4 @@
-<img src="./carson.gif" width="100%"/>
+<img src="./dark_theme.gif?sanitize=true#gh-dark-mode-only" width="100%"/><img src="./light_theme.gif?sanitize=true#gh-light-mode-only" width="100%"/>
 
 Developer,
 [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21),
