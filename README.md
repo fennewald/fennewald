@@ -4,7 +4,7 @@ Developer,
 [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21),
 [Student of Tao](https://www.mit.edu/~xela/tao.html)
 
-Personal project development is on my [source hut](https://sr.ht/~fennewald), so check me out there!
+Personal project are on my [source hut](https://sr.ht/~fennewald), so check me out there!
 I use this account for website hosting and open source projects.
 
 I'm always happy to talk shop, answer questions, or just meet new people. You
