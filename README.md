@@ -1,4 +1,4 @@
-<img src="./carson.gif" width="100%"/>
+<img src="./carson.gif" style="image-rendering: pixelated" width="100%"/>
 
 # Carson Riker
 
