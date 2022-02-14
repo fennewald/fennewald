@@ -1,4 +1,4 @@
-<img src="./carson.gif" style="image-rendering: pixelated" width="100%"/>
+<img src="./carson.gif" style=" filter: none;-webkit-filter: blur(0px);-moz-filter: blur(0px);-ms-filter: blur(0px);filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='0');" width="100%"/>
 
 # Carson Riker
 
