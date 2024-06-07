@@ -1,12 +1,5 @@
 <img src="./dark_theme.gif?sanitize=true#gh-dark-mode-only" width="100%"/><img src="./light_theme.gif?sanitize=true#gh-light-mode-only" width="100%"/>
 
-Developer,
-[Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21),
-[Student of Tao](https://www.mit.edu/~xela/tao.html)
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cliply.co/wp-content/uploads/2021/07/402107790_STATIC_NOISE_400.gif');]{x0000}$}
 
-Personal project are on my [source hut](https://sr.ht/~fennewald), so check me out there!
-I use this account for website hosting and open source projects.
-
-I'm always happy to talk shop, answer questions, or just meet new people. You
-can email me at c@rson.riker.me, or shoot me a message on matrix
-(@fennewald:matrix.org), you can also check out [my website](https://carson.riker.me)
