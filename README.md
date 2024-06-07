@@ -1,5 +1,5 @@
 <img src="./dark_theme.gif?sanitize=true#gh-dark-mode-only" width="100%"/><img src="./light_theme.gif?sanitize=true#gh-light-mode-only" width="100%"/>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cliply.co/wp-content/uploads/2021/07/402107790_STATIC_NOISE_400.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('./dark_theme.gif');]{x0000}$}
 
